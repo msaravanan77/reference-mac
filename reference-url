@@ -1,0 +1,51 @@
+
+Recent reference:
+
+Interrupt handlers:
+
+What happens to preempted interrupt handler?
+	http://stackoverflow.com/questions/11779397/what-happens-to-preempted-interrupt-handler?rq=1
+Keyboard interrupt handler
+http://cs.smith.edu/~nhowe/262/oldlabs/keyboard.html
+
+tasklet/softirq/workqueue
+https://kerneltweaks.wordpress.com/2014/08/21/concept-of-isr-in-linux/
+
+SVLUG Kernel Walkthrough 2007-11-20
+https://www.youtube.com/watch?v=pe0nXmoaPYY
+https://www.youtube.com/watch?v=y7SWXTyXF0E
+https://www.youtube.com/watch?v=TjH2Ufc6t2E&list=PLaUL9h0qh2RMIA_oL-pY1el_4enM6YP0F&index=4
+
+http://www.emblogic.com/blog/10/project-11-3/
+
+
+Linux kernel internals
+     Learn Linux concepts.blogspot.in
+
+LearnLinuxconcepts.blogspot.in
+
+Linux Ethernet Network Device Driver – A flow of code
+	https://cutecomputer.wordpress.com/2006/07/31/linux-ethernet-network-device-driver-a-flow-of-code/
+
+Google search string:
+	linux networking driver code walkthrough
+
+How Linux or UNIX Understand which program to run – PART I
+	https://www.cyberciti.biz/tips/how-linux-or-unix-understand-which-program-to-run-part-i.html
+
+How ls works:
+	http://www.linux-magazine.com/Issues/2015/174/How-Does-ls-Work
+	https://gist.github.com/amitsaha/8169242
+
+
+22Mar2017:
+spinlock vs mutex
+	http://stackoverflow.com/questions/5869825/when-should-one-use-a-spinlock-instead-of-mutex
+
+
+Driver receive packet -> (rx time) -> calculate csum -> push to ip stack (rx time)
+ 
+https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/
+
+https://www.naukri.com/job-listings-Linux-Developer-VotaryTech-Hyderabad-2-to-8-years-070317500038?src=simJobDeskACP&sid=14908678599207&xp=3
+
