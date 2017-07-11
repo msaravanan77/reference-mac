@@ -1,3 +1,10 @@
+11July2017
+usbMass storage issue
+(g_mass_storage.ko)
+	https://e2e.ti.com/support/embedded/linux/f/354/t/445949
+	http://linlog.blogspot.in/2011/02/usb-file-storage-gadget.html		(stall parameter is required for windows mount)
+	http://www.linux-usb.org/gadget/file_storage.html (create and make filesystem in loopfile)
+	
 17June 2017
 Using Magnetic Stripe Readers for Point-of-Sale 
 	http://web.mit.edu/ecommerce/www/magstripe.html
